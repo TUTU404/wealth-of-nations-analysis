@@ -12,7 +12,7 @@ A robust Python pipeline for extracting and analyzing narrative structures from 
 
 2. **Run the analysis:**
    ```bash
-   jupyter notebook tutorial_english.ipynb
+   jupyter notebook relatio_analysis.ipynb
    ```
 
 ## Core Workflow
