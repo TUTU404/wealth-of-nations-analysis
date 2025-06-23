@@ -1,0 +1,16 @@
+# Narrative Structure Analysis - Essential Dependencies
+# Quick setup for experienced programmers new to NLP
+
+relatio
+pandas
+numpy
+spacy
+allennlp
+allennlp-models
+scikit-learn
+matplotlib
+networkx
+jupyter
+
+# After installation, download the spaCy model:
+# python -m spacy download en_core_web_sm
