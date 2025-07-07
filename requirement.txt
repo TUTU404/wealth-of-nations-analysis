@@ -12,5 +12,11 @@ matplotlib
 networkx
 jupyter
 
+# RAG System Dependencies
+sentence-transformers
+python-dotenv
+requests
+torch
+
 # After installation, download the spaCy model:
 # python -m spacy download en_core_web_sm

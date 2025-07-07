@@ -1,0 +1,27 @@
+{
+  "query": "What stories does Congress Library tell about American culture and heritage?",
+  "timestamp": "20250627_200652",
+  "extracted_entities": [
+    "",
+    "library",
+    "about",
+    "co",
+    "age",
+    "congress",
+    "eric",
+    "culture",
+    "america",
+    "stories"
+  ],
+  "total_relations_found": 2135,
+  "top_relations_used": 5,
+  "source_documents_count": 5,
+  "key_themes": {
+    "tell": 1,
+    "dissolved": 1,
+    "pictured": 1,
+    "discusses": 1,
+    "working": 1
+  },
+  "narrative_analysis": "### **1. Dominant Narrative Themes**  \nCongress Library’s Twitter content revolves around **storytelling as a tool for preserving and celebrating American culture and heritage**. Key themes include:  \n- **Historical Preservation**: Emphasis on archiving and documenting pivotal moments (e.g., the National Woman’s Party’s dissolution, Dorothea Lange’s photography).  \n- **Cultural Celebration**: Highlighting art, music, and film as vehicles for expressing American identity (e.g., Ken Burns Film Prize, Gershwin Prize).  \n- **Inclusivity and Representation**: Focus on marginalized voices (e.g., Lewis Mountain Campground’s segregated history, women’s suffrage movement).  \n- **Collaborative Storytelling**: Partnerships with entities like ShenandoahNPS and public submissions to co-create narratives.  \n\n### **2. Key Relationships**  \nThe narrative is shaped by recurring **subject-verb-object (SVO) relationships**:  \n- **\"Exemplary films tell compelling stories\"**: Positions media as a bridge between history and contemporary audiences.  \n- **\"The National Woman’s Party dissolved\"**: Links organizational legacies to the Library’s role as custodian of historical records.  \n- **\"The woman pictured\"**: Humanizes history through personal stories (e.g., Dorothea Lange’s photograph).  \n- **\"Annie Lennox discusses\"**: Uses cultural figures to validate the Library’s cultural authority.  \n- **\"The Library’s Federal Research Division working\"**: Highlights active collaboration to uncover hidden histories (e.g., segregated recreation areas).  \n\n### **3. Messaging Strategy**  \nCongress Library positions itself as:  \n- **Curator of Cultural Memory**: Preserving artifacts (e.g., NWP records, photographs) and ensuring accessibility.  \n- **Patron of the Arts**: Supporting filmmakers and musicians to reflect America’s evolving identity.  \n- **Democratizer of History**: Amplifying underrepresented voices (e.g., African American recreation spaces, women’s suffrage) through research and public engagement.  \n- **Bridge Between Past and Present**: Framing historical events as relevant to modern conversations (e.g., linking Lange’s Depression-era photos to contemporary empathy).  \n\n### **4. Content Focus**  \nTopics receiving attention include:  \n- **Women’s History**: The National Woman’s Party’s legacy and women’s suffrage.  \n- **Visual and Performing Arts**: Photography (Lange’s work), film, and music (Gershwin Prize) as cultural touchstones.  \n- **Civil Rights and Social Justice**: Segregated spaces and their historical context.  \n- **Public Participation**: Calls for submissions (e.g., Ken Burns Prize) to involve audiences in cultural storytelling.  \n\n### **5. Audience Engagement**  \nNarrative techniques include:  \n- **Personalization**: Humanizing history through individuals (e.g., “the woman pictured” in Lange’s photo).  \n- **Celebrity Endorsement**: Quoting Annie Lennox to lend cultural credibility.  \n- **Interactive Calls to Action**: Encouraging submissions and research collaborations (e.g., CALL FOR STORIES).  \n- **Emotional Resonance**: Using evocative imagery (e.g., Depression-era photos) and themes (e.g., suffrage) to spark empathy.  \n\n### **6. Overall Narrative Melody**  \nThe overarching narrative is **\"America’s Story, Told Together\"**. Congress Library frames itself as a hub where:  \n- **History Meets Art**: Film, music, and photography are tools to breathe life into archives.  \n- **Marginalized Voices Are Elevated**: From women’s suffrage to civil rights, the focus is on inclusivity.  \n- **Collective Memory Is Curated**: Through partnerships, public submissions, and research, the Library fosters a shared cultural identity.  \n\nThis melody balances **authority (as guardian of records)** with **accessibility (through storytelling and collaboration)**, positioning the Library as both a scholarly institution and a cultural beacon."
+}
